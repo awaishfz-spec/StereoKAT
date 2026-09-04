@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "e:\BIGKAT4-master_3IR\BIGKAT4-master_3IR\PSAT.py", line 26, in <module>
+    from PySide import QtGui, QtCore
+ModuleNotFoundError: No module named 'PySide'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "e:\BIGKAT4-master_3IR\BIGKAT4-master_3IR\PSAT.py", line 42, in <module>
+    from PyQt4 import QtCore, QtGui  #Note that some code will need to be changed if this is used (Signal has different call signiture)
+ModuleNotFoundError: No module named 'PyQt4'

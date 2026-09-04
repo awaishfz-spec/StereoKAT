@@ -1,0 +1,12 @@
+ID,Forename,Surname,DOB,Gender,Recording_Time,Condition,Run
+P1,John,Lane,14/06/1982,M,30,Open ,0
+P1,John,Lane,14/06/1982,M,30,Closed,0
+P1,John,Lane,14/06/1982,M,30,Distractor,0
+P2,Lucy,Clark,10/08/1995,F,30,Open ,0
+P2,Lucy,Clark,10/08/1995,F,30,Closed,0
+P2,Lucy,Clark,10/08/1995,F,30,Distractor,0
+P3,John,Doe,27/12/2005,M,30,Open ,0
+P3,John,Doe,27/12/2005,M,30,Closed,0
+P3,John,Doe,27/12/2005,M,30,Distractor,0
+,,,,,,,
+,,,,,,,

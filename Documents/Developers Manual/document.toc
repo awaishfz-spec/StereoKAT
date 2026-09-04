@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {0.1}Overview}{2}{section.0.1}
+\contentsline {section}{\numberline {0.2}General Architecture}{2}{section.0.2}
+\contentsline {section}{\numberline {0.3}Hardware Assembly}{3}{section.0.3}
+\contentsline {section}{\numberline {0.4}Developer Installation}{5}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}Setting up the Raspberry Pi System}{5}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {0.4.2}Manual Installation}{5}{subsection.0.4.2}
+\contentsline {subsubsection}{RPi Manual Install}{6}{section*.2}
+\contentsline {subsubsection}{Networking the RPIs}{7}{section*.3}
+\contentsline {subsubsection}{Placing the PSAT files on the RPis}{7}{section*.4}
+\contentsline {subsubsection}{Working on the raspberry pi's}{8}{section*.5}
+\contentsline {subsubsection}{Make PSAT run on boot}{8}{section*.6}
+\contentsline {subsubsection}{Setting up PSAT on the RPi}{8}{section*.7}
+\contentsline {subsection}{\numberline {0.4.3}Manual install on Windows}{8}{subsection.0.4.3}
+\contentsline {section}{\numberline {0.5}PSAT Code Documentation}{9}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}The PSAT backend}{10}{subsection.0.5.1}
+\contentsline {subsubsection}{posturalCam class}{11}{section*.8}
+\contentsline {subsubsection}{posturalProc class}{12}{section*.9}
+\contentsline {subsubsection}{stereo\_process class}{13}{section*.10}
+\contentsline {subsection}{\numberline {0.5.2}The PSAT GUI}{14}{subsection.0.5.2}
+\contentsline {section}{\numberline {0.6}Camera Calibration}{17}{section.0.6}
+\contentsline {subsection}{\numberline {0.6.1}Single Camera Calibration}{18}{subsection.0.6.1}
+\contentsline {section}{\numberline {0.7}Building the PSAT data processing executable}{22}{section.0.7}
+\contentsline {section}{\numberline {0.8}FAQ}{24}{section.0.8}
+\contentsline {subsection}{\numberline {0.8.1}The data is processing poorly}{24}{subsection.0.8.1}

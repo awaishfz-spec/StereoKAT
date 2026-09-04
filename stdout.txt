@@ -1,0 +1,6 @@
+The basepath is E:\BIGKAT4-master_3IR\BIGKAT4-master_3IR
+False
+e:/BIGKAT4-master_3IR/BIGKAT4-master_3IR
+E:\BIGKAT4-master_3IR\BIGKAT4-master_3IR
+No module named 'PySide'
+Looking for PyQT
